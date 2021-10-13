@@ -1,4 +1,4 @@
- Hi there 👋 I'm Anderson Mendes. I'm lovely for game developer and software developer.
+I'm Anderson Mendes. I'm lovely for game developer and software developer.
 
 <!--
 **andersonmends/andersonmends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
